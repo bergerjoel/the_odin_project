@@ -1,0 +1,18 @@
+body{
+    color: black;
+    font-family: Verdana, sans-serif;
+}
+p.title {
+    font-size: 36px;
+    text-decoration: underline;
+}
+
+p.subtitle, 
+p.list-header {
+    font-size: 24px;
+}
+
+div a {
+    color: black;
+    text-decoration: none;
+}
